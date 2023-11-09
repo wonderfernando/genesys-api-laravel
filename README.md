@@ -1,11 +1,10 @@
-##API REST em Laravel - Guia de Consulta
+## API REST em Laravel - Guia de Consulta
 Este é um guia de consulta para a API REST construída em Laravel, que fornece acesso a informações relacionadas a usuários, funcionários, planos, históricos, clientes e fornecedores.
 
 Endpoint Base
 Todos os endpoints têm como base a seguinte URL:
 
-arduino
-Copy code
+ 
 https://sua-api.com/api/v1
 Certifique-se de substituir sua-api.com pela URL real do seu serviço.
 
